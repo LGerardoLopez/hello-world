@@ -1,6 +1,5 @@
 # hello-world
 Just another repository
 
-<p>
-	Text
-</p>
+Modificamos este archivo xd
+y en el otro lado lo recibimos actualizado
